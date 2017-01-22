@@ -16,4 +16,4 @@ Hidden Gems, el objetivo principal de nuestro app es llevar turismo a pueblos pe
 
 ## Licencia
 
-The Hidden Gems is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+The Hidden Gems es un software de código abierto con licencia bajo la licencia MIT. [MIT license](http://opensource.org/licenses/MIT).
