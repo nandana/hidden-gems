@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/amiedes/hidden-gems/master/resources/assets/img/mine_icon.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/nandana/hidden-gems/master/resources/assets/img/mine_icon.jpeg"></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
