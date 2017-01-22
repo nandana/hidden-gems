@@ -1,0 +1,5 @@
+{
+    "require": {
+        "hotelbeds/hotel-api-sdk-php": "dev-master@dev"
+    }
+}
